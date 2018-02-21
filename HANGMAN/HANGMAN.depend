@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1434689766 source:k:\umt\pf(se141)\hangman\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<ctime>
+	<stdio.h>
+
+1434689766 source:k:\study\umt\pf(se141)\hangman\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<ctime>
+	<stdio.h>
+
